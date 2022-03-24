@@ -1,1 +1,1 @@
-My first readme
+repo for the course 
